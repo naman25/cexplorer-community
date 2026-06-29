@@ -1,8 +1,8 @@
 {
   "project_id": "ourodex",
   "name": "Ourodex",
-  "organization": "",
-  "verified": false,
+  "organization": "Ourodex Finance",
+  "verified": true,
 
   "category": ["dex", "defi"],
 
@@ -73,5 +73,5 @@
   "tags": ["dex-aggregator", "prediction-market", "cardano", "midnight", "defi"],
 
   "status": "active",
-  "launch_year": null
+  "launch_year": 2026
 }
